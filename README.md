@@ -43,7 +43,7 @@ Therefore, we'll start by working on `Artist`. Keep in mind though, that you
 will need to be build out related classes together in order to pass some tests,
 as they work in collaboration.
 
-### `Artist` class
+<!-- ### `Artist` class
 
 An `Artist` be initialized with a name and should have an attribute accessor
 for this name. The class should have an `@@all` class variable and store all
@@ -51,7 +51,7 @@ for this name. The class should have an `@@all` class variable and store all
 
 #### `Artist.all`
 
-This class method should return all `Artist` instances.
+This class method should return all `Artist` instances. -->
 
 #### `Artist#add_song`
 
